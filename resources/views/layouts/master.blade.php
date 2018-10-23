@@ -87,7 +87,7 @@
             <a href="/events">Events</a>
         </div>
         <div class="title m-b-md">
-            Creative Minds Gallery
+            @yield('title', config('app.name'))
         </div>
         <div>
             @yield('content')

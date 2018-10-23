@@ -17,6 +17,9 @@
     <div class="title m-b-md">
         Events
     </div>
+    <div>
+        <img style="width:100%;" src="/i/GalleryPano2.jpg" />
+    </div>
 @stop
 
 @section('bottom')
